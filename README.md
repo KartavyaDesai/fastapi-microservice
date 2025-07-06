@@ -15,3 +15,4 @@ Activated using `source ~/.myenv/bin/activate` (in bash)
  - Main File
 
 3. Populate the Makefile
+4. Setup actions, and make it working.
