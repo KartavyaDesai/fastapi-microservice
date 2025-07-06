@@ -9,7 +9,7 @@ lint:
 	pylint --disable=R,C *.py projectlib/*.py
 test:
 	#test file
-	python -m pytest -vv --cov=projectlib test.py
+	python -m pytest -vv --cov=projectlib --cov=main test_*.py
 build:
 	#build container
 deploy:
