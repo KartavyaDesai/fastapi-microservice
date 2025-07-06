@@ -16,3 +16,4 @@ Activated using `source ~/.myenv/bin/activate` (in bash)
 
 3. Populate the Makefile
 4. Setup actions, and make it working.
+5. Make a CLI-Tool using Fire (Aim to do this is to test logic using CLI.)
